@@ -13,14 +13,31 @@ Cloud Resilience Analysis and Federation Tool (CRAFT) is an Excel-based tool tha
 -	the identification and quantification of the residual risk and, when applicable, the hardening of the federated resources to reduce the risk to an acceptable level, and 
 - the overall analysis of the federated resources’ resilience  and the identification of the gaps that need to be addressed.
 
+## Authors
 
+In alphabetical order by last name
+|  Name | Affiliation|
+|---------------------|------------------------|
+| Michaela Iorga | NIST|
+| Prabha Kumar | DoD CIO |
+| Tony Modelfino | Stratogis Neetworks |
+
+
+## Change Log
+
+Refer to the CHANGE LOG.md for a complete list of changes.
 
 ## Code status, pre-release, production.
 
-## Installation Process
+Current version of CRAFT is equivalent to a pre-alpha release. THe authors are still making changes to enhace it, in preparation of v 1.0 release
+
+## How to Use CRAFT
+
 
 ## Contact Information
 
-## Acknowledgement for reused code if any
+
+## Acknowledgement
+
 
 
